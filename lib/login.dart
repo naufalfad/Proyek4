@@ -49,7 +49,7 @@ class _LoginPageState extends State<LoginPage> {
                 Image.asset('assets/diamond.png'),
                 const SizedBox(height: 16.0),
                 Text(
-                  'DIAM',
+                  '016-M Naufal',
                   style: Theme.of(context).textTheme.headline5),
               ],
             ),
